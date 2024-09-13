@@ -1,6 +1,3 @@
-#23100011020
-#MUSTAFA SATI TUTKUN
-#BAHAR DONEMI FINAL PROJESI
 import datetime
 import os
 clients = {}
@@ -182,9 +179,9 @@ def verileri_kaydet(dosya_adi):
 
 
 def controlmenu():
- dosyaadi="23100011020.txt"
+ dosyaadi="MUSTERILER.txt"
  while True:
-  print("--TUTKUN OPERATOR A.S.--")
+  print("--*** OPERATOR A.S.--")
   print("-CALISAN ARAYUZU-")
   print("MUSTERI SISTEMI(EKLEME,ARAMA,GUNCELLEME VB. ISLEMLER)(1)")
   print("PAKETLER(TARIFELER) HAKKINDA BILGILER(2)")
